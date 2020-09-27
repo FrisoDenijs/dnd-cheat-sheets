@@ -1,12 +1,14 @@
 # Using Ability Scores
 
-- **Strength** measures physical power
-- **Dexterity** measures agility
-- **Constitution** measures endurance
-- **Intelligence** measures reasoning and memory
-- **Wisdom** measures perception and insight
-- **Charisma** measures force of personality
+- [Checks](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#checks)
+- [Strength](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#strength)
+- [Dexterity](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#dexterity)
+- [Constitution](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#constitution)
+- [Intelligence](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#intelligence)
+- [Wisdom](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#wisdom)
+- [Charisma](https://github.com/FrisoDenijs/dnd-cheat-sheets/blob/master/using%20ability%20scores.md#charisma)
 
+## Checks
 | Score 	| Modifier 	|   	| Score 	| Modifier 	|
 |-------	|----------	|---	|-------	|----------	|
 | 1     	| -5       	|   	| 16-17 	| +3       	|
