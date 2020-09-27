@@ -42,6 +42,7 @@ When working together the character with the highest ability modifier makes chec
 - Cling to surface when someone is trying to knock you off
 - Try to jump long distance or pull off a stunt midjump
 - Struggle to swim in treacherous waters
+
 **Other Checks**:
 - Force open a door
 - Break free of bonds
@@ -49,6 +50,7 @@ When working together the character with the highest ability modifier makes chec
 - Hang on to a wagon while being dragged behind it
 - Tip over a statue
 - Keep a boulder from rolling
+
 **Lifting and Carrying**:
 - Carrying Capacity = Strength * 15 lbs.
 - Push, Drag or Lift = Carrying Capacity * 2 lbs.
