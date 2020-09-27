@@ -1,11 +1,11 @@
 #Using Ability Scores
 
-**Strength** measures physical power
-**Dexterity** measures agility
-**Constitution** measures endurance
-**Intelligence** measures reasoning and memory
-**Wisdom** measures perception and insight
-**Charisma** Measures force of personality
+- **Strength** measures physical power
+- **Dexterity** measures agility
+- **Constitution** measures endurance
+- **Intelligence** measures reasoning and memory
+- **Wisdom** measures perception and insight
+- **Charisma** Measures force of personality
 
 | Score 	| Modifier 	|   	| Score 	| Modifier 	|
 |-------	|----------	|---	|-------	|----------	|
@@ -19,6 +19,7 @@
 | 14-15 	| +2       	|   	| 30    	| +10      	|
 
 *Advantage*: roll 2 D20 and use the highest
+
 *Disadvantage*: roll 2 D20 and use the lowest
 
 | Task Difficulty   	| DC 	|
