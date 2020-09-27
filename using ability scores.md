@@ -43,7 +43,7 @@ When working together the character with the highest ability modifier makes chec
 - Try to jump long distance or pull off a stunt midjump
 - Struggle to swim in treacherous waters
 
-**Other Checks**:
+**Other Strength Checks**:
 - Force open a door
 - Break free of bonds
 - Push through a tunnel that is too small
@@ -56,3 +56,31 @@ When working together the character with the highest ability modifier makes chec
 - Push, Drag or Lift = Carrying Capacity * 2 lbs.
 - For each size category above medium, double capacity
 - Tiny creatures halve Carrying Capacity
+
+## Dexterity
+**Acrobatics**:
+- Balance
+- Acrobatic stunts, such as dives, rolls somersaults and flips
+
+**Sleight of Hand**:
+- Magic tricks
+- Conceiling an object on person
+- Pickpocket
+
+**Stealth**:
+- Conceal oneself
+- Sneak past guards
+- Slip away
+- Sneak up on someone
+
+**Other Dexterity Checks**:
+- Control a heavily laden cart on a steep descent
+- Steer a chariot around a tight turn
+- Pick a lock
+- Disable a trap
+- Securely tie up a prisoner
+- Wriggle free of bonds
+- Play a stringed instrument
+- Craft a small or detailed object
+- Combat Initiative
+
