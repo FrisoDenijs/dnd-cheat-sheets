@@ -1,4 +1,4 @@
-#Using Ability Scores
+# Using Ability Scores
 
 - **Strength** measures physical power
 - **Dexterity** measures agility
