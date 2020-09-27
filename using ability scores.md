@@ -31,3 +31,26 @@
 | Very hard         	| 25 	|
 | Nearly impossible 	| 30 	|
 
+Passive Check = 10 + modifiers + (*advantage* +5 | *disadvantage* -5)
+
+When working together the character with the highest ability modifier makes check with *advantage*
+
+
+## Strength
+**Athletics**:
+- Climb sheer or slippery surface
+- Cling to surface when someone is trying to knock you off
+- Try to jump long distance or pull off a stunt midjump
+- Struggle to swim in treacherous waters
+**Other Checks**:
+- Force open a door
+- Break free of bonds
+- Push through a tunnel that is too small
+- Hang on to a wagon while being dragged behind it
+- Tip over a statue
+- Keep a boulder from rolling
+**Lifting and Carrying**:
+- Carrying Capacity = Strength * 15 lbs.
+- Push, Drag or Lift = Carrying Capacity * 2 lbs.
+- For each size category above medium, double capacity
+- Tiny creatures halve Carrying Capacity
